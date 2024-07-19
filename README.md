@@ -5,7 +5,7 @@
 <h3 align="center">Desarrollador Full Stack y Diseñador UX/UI, siempre en constante aprendizaje.
 Empecé a estudiar programación por mi pasión en el campo de la tecnología, en el que intento estar constantemente al tanto de todas sus novedades. Soy desarrollador Full Stack, pero con preferencia en el desarrollo front-end.</h3>
 <h3 align="center">Idiomas y Herramientas</h3>
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
