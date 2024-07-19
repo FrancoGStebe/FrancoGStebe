@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Franquito</h1>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN0NXk0cWFpcWpxMTVmaTFtZXJ6ajZjNWZmMzNkanJ2NWF2aGU0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.webp" align="center" alt="hola">
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN0NXk0cWFpcWpxMTVmaTFtZXJ6ajZjNWZmMzNkanJ2NWF2aGU0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.webp" alt="hola">
+</div>
 <h3 align="center">Desarrollador Full Stack y Diseñador UX/UI, siempre en constante aprendizaje.
 Empecé a estudiar programación por mi pasión en el campo de la tecnología, en el que intento estar constantemente al tanto de todas sus novedades. Soy desarrollador Full Stack, pero con preferencia en el desarrollo front-end.</h3>
 <h3 align="left">Idiomas y herramientas:</h3>
@@ -53,4 +55,5 @@ Empecé a estudiar programación por mi pasión en el campo de la tecnología, e
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a>
 </p>
+
 
