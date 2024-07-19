@@ -37,7 +37,7 @@ Empecé a estudiar programación por mi pasión en el campo de la tecnología, e
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo-thumbnail.png" alt="nextjs" width="40" height="40"/>
+    <img src="" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
