@@ -2,8 +2,7 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN0NXk0cWFpcWpxMTVmaTFtZXJ6ajZjNWZmMzNkanJ2NWF2aGU0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.webp" alt="hola">
 </div>
-<h3 align="center">Desarrollador Full Stack y Diseñador UX/UI, siempre en constante aprendizaje.
-Empecé a estudiar programación por mi pasión en el campo de la tecnología, en el que intento estar constantemente al tanto de todas sus novedades. Soy desarrollador Full Stack, pero con preferencia en el desarrollo front-end.</h3>
+<h3 align="center">Soy Desarrollador Full Stack y Diseñador UX/UI, siempre en busca de nuevos conocimientos. Mi pasión por la tecnología me llevó a estudiar programación y me esfuerzo por mantenerme actualizado con las últimas tendencias en este campo. Aunque tengo habilidades en el desarrollo Full Stack, me especializo y disfruto más en el desarrollo front-end.</h3>
 <h3 align="center">Idiomas y Herramientas</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
