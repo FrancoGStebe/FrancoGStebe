@@ -1,13 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Franquito</h1>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN0NXk0cWFpcWpxMTVmaTFtZXJ6ajZjNWZmMzNkanJ2NWF2aGU0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.webp" align="center" alt="hola">
 <h3 align="center">Desarrollador Full Stack y Diseñador UX/UI, siempre en constante aprendizaje.
 Empecé a estudiar programación por mi pasión en el campo de la tecnología, en el que intento estar constantemente al tanto de todas sus novedades. Soy desarrollador Full Stack, pero con preferencia en el desarrollo front-end.</h3>
-<hr>
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-  <!-- Enlaces a redes sociales o formas de contacto -->
-</p>
-<hr>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdnbTF4c3dnNDdweGgwaXlzY3JveXIxMzdlNXE2OTBtaWIxOXB1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.webp" alt="carizma">
 <h3 align="left">Idiomas y herramientas:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
